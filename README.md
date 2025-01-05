@@ -1,5 +1,5 @@
 # 🧠 DocQuery AI – Intelligent document querying made simple
-Welcome to the **Chat with PDF RAG App** repository! This project enables users to upload a PDF document and interact with it by asking questions. The app retrieves relevant information from the PDF using **Retrieval-Augmented Generation (RAG)** and provides meaningful answers using a **LLM (Large Language Model)**. Additionally, the repository includes a script to measure **semantic similarity** between a question and two possible answers.
+Welcome to the **DocQuery AI** repository! This project enables users to upload a PDF document and interact with it by asking questions. The app retrieves relevant information from the PDF using **Retrieval-Augmented Generation (RAG)** and provides meaningful answers using a **LLM (Large Language Model)**. Additionally, the repository includes a script to measure **semantic similarity** between a question and two possible answers.
 
 ## 📁 **Repository Structure**
 ```
