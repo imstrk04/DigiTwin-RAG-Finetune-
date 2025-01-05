@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-ollama
+langchain-nvidia-ai-endpoints
+langchain-community
+langchain-core
+faiss-cpu
+pypdf
+python-dotenv
+requests
